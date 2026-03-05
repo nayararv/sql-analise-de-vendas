@@ -1,4 +1,4 @@
--- INSERINDO DADOS FICTICIOS NA TABELA clientes
+-- INSERINDO DADOS FICTICIOS NAS TABELAS
 
 INSERT INTO clientes 
 (nome_clientes, genero, cidade, estado, data_cadastro, idade) 
